@@ -1,1 +1,23 @@
+############################################################
+##### Welcome to our Instant Discount System #####
+############################################################
+Enter your purchase price: 50
+your purchase price 50.0, you are not eligible for a discount.
 
+
+############################################################
+##### Welcome to our Instant Discount System #####
+############################################################
+Enter your purchase price: 400
+your purchase price 400.0, you are eligible for a 10% discount.
+discount amount is 40.0
+Your final price after discount is 360.0.
+
+
+############################################################
+##### Welcome to our Instant Discount System #####
+############################################################
+Enter your purchase price: 1500
+your purchase price 1500.0, you are eligible for a 20% discount.
+discount amount is 300.0
+Your final price after discount is 1200.0.
