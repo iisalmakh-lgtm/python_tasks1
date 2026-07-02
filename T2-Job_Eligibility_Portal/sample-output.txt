@@ -1,1 +1,48 @@
+#version1
+####################################################### 
+##### Welcome to our Job Eligibility Portal ##### 
+####################################################### 
+does the student know Python? (yes/no): no 
+You are not eligible because Python knowledge is required.
 
+#######################################################
+##### Welcome to our Job Eligibility Portal #####
+#######################################################
+does the student know Python? (yes/no): yes
+How many years of experience or projects do you have? 1
+does the student have a degree in Computer Science or a bootcamp certificate? (yes/no): no
+Sorry, you are not eligible for the job now.
+
+#######################################################
+##### Welcome to our Job Eligibility Portal #####
+#######################################################
+does the student know Python? (yes/no): yes
+How many years of experience or projects do you have? 2
+does the student have a degree in Computer Science or a bootcamp certificate? (yes/no): no
+Congratulations! You have been accepted for the next interview stage.
+
+#######################################################
+##### Welcome to our Job Eligibility Portal #####
+#######################################################
+does the student know Python? (yes/no): yes
+How many years of experience or projects do you have? 0
+does the student have a degree in Computer Science or a bootcamp certificate? (yes/no): yes
+Congratulations! You have been accepted for the next interview stage.
+
+#version2
+#######################################################
+##### Welcome to our Job Eligibility Portal #####
+#######################################################
+does the student know Python? (yes/no): no
+How many years of experience or projects do you have? 0
+does the student have a degree in Computer Science or a bootcamp certificate? (yes/no): no
+You are not eligible because Python knowledge is required.
+
+
+#######################################################
+##### Welcome to our Job Eligibility Portal #####
+#######################################################
+does the student know Python? (yes/no): yes
+How many years of experience or projects do you have? 1
+does the student have a degree in Computer Science or a bootcamp certificate? (yes/no): yes
+Congratulations! You have been accepted for the next interview stage
