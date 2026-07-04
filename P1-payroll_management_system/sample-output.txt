@@ -1,3 +1,6 @@
+------------------------------------------------------------
+-----Welcome To Our Corporate Payroll System -----
+------------------------------------------------------------
  Enter Employee Name: Salma Khaled
  Enter Your Department : DS
  Enter Base Salary (EGP): 300000
