@@ -5,7 +5,6 @@
  Enter Your Department : DS
  Enter Base Salary (EGP): 300000
  Enter Performance Rating (1-5): 5
- You Can Copmlete 
 
 ==================================================
                 PAYROLL STATEMENT                 
