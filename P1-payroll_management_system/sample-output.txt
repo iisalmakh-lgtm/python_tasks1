@@ -1,0 +1,31 @@
+ Enter Employee Name: Salma Khaled
+ Enter Your Department : DS
+ Enter Base Salary (EGP): 300000
+ Enter Performance Rating (1-5): 5
+ You Can Copmlete 
+
+==================================================
+                PAYROLL STATEMENT                 
+==================================================
+Employee Name : Salma Khaled
+Department    : DS
+--------------------------------------------------
+Base Salary   : 300000.00 EGP
+Bonus         : 60000.00 EGP
+Gross Salary  : 360000.00 EGP
+Tax           : 54000.00 EGP
+--------------------------------------------------
+Net Salary    : 306000.00 EGP
+==================================================
+
+
+
+
+------------------------------------------------------------
+-----Welcome To Our Corporate Payroll System -----
+------------------------------------------------------------
+ Enter Employee Name: Sara Khaled 
+ Enter Your Department : Medical Field
+ Enter Base Salary (EGP): 2500000
+ Enter Performance Rating (1-5): 6
+Invalid Information
