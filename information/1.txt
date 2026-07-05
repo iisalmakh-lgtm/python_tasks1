@@ -216,14 +216,37 @@ iGPUs can be either integrated into a computer's CPU or inserted into a slot alo
 
 # Advantages
 
-High graphics performance.
-Accelerates AI and machine learning tasks.
-Improves gaming experience.
-Faster video rendering.
+- High graphics performance.
+- Accelerates AI and machine learning tasks.
+- Improves gaming experience.
+- Faster video rendering.
 
 # Disadvantages
 
-Expensive.
-High power consumption.
-Produces more heat.
-Not necessary for basic computer tasks.
+- Expensive.
+- High power consumption.
+- Produces more heat.
+- Not necessary for basic computer tasks.
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+#References 
+IBM. What is Computer Hardware?
+https://www.ibm.com/think/topics/hardware
+IBM. What is Computer Software?
+https://www.ibm.com/think/topics/software
+IBM. What is a CPU?
+https://www.ibm.com/think/topics/central-processing-unit
+Intel. Intel Processors
+https://www.intel.com/content/www/us/en/products/details/processors.html
+AMD. AMD Processors
+https://www.amd.com/en/products/processors.html
+NVIDIA. What is a GPU?
+https://www.nvidia.com/en-us/glossary/gpu/
+GeeksforGeeks. Registers in Computer Organization
+https://www.geeksforgeeks.org/registers-in-computer-organization/
+GeeksforGeeks. Control Unit in Computer Organization
+https://www.geeksforgeeks.org/control-unit-in-computer-organization/
+GeeksforGeeks. Random Access Memory (RAM)
+https://www.geeksforgeeks.org/what-is-ram-random-access-memory/
+Wikipedia. Random-access memory
+https://en.wikipedia.org/wiki/Random-access_memory
